@@ -1,0 +1,1 @@
+{"version":3,"file":"elasticsearch.config.js","sourceRoot":"","sources":["../../src/aws-config/elasticsearch.config.ts"],"names":[],"mappings":";;;AAAA,0DAAgD;AAEnC,QAAA,mBAAmB,GAAG;IAC/B,IAAI,EAAE,uBAAuB;CAChC,CAAC;AAEW,QAAA,qBAAqB,GAAG;IACjC,OAAO,EAAE,eAAe;IACxB,QAAQ,EAAE,IAAI,sBAAM,CAAC,2BAAmB,CAAC;CAC5C,CAAC"}
